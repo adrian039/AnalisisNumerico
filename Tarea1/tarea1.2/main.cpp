@@ -83,7 +83,7 @@ int main() {
         cin>>s;
     }
     while(x!=1 && x!=2){
-        cout<<"--> Ingrese 1 para utilizar precision simple o 2 para presicion doble: ";
+        cout<<"--> Ingrese 1 para utilizar precision simple o 2 para precision doble: ";
         cin>>x;
     }
     if(s==2){
