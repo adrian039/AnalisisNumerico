@@ -71,9 +71,6 @@ void calcular2(){
 
     cout<<"-->"<<"\033[1;32m Error verdadero para x1: "<<errx1<< "\033[0m"<<" <--"<<endl;
     cout<<"-->"<<"\033[1;32m Error verdadero para x2: "<<errx2<< "\033[0m"<<" <--"<<endl;
-
-
-
 }
 
 int main() {
