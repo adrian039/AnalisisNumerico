@@ -6,9 +6,25 @@
 
 #IncludeRegexTransform: 
 
+/Users/Adrian/Documents/GitHub/AnalisisNumerico/Tarea1/tarea1.2/calculos.cpp
+iostream
+-
+math.h
+-
+calculos.h
+/Users/Adrian/Documents/GitHub/AnalisisNumerico/Tarea1/tarea1.2/calculos.h
+
+/Users/Adrian/Documents/GitHub/AnalisisNumerico/Tarea1/tarea1.2/calculos.h
+iostream
+-
+math.h
+-
+
 /Users/Adrian/Documents/GitHub/AnalisisNumerico/Tarea1/tarea1.2/main.cpp
 iostream
 -
 math.h
 -
+calculos.cpp
+/Users/Adrian/Documents/GitHub/AnalisisNumerico/Tarea1/tarea1.2/calculos.cpp
 

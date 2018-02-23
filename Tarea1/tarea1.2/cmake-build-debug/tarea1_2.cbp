@@ -80,6 +80,12 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/Users/Adrian/Documents/GitHub/AnalisisNumerico/Tarea1/tarea1.2/calculos.cpp">
+			<Option target="tarea1_2"/>
+		</Unit>
+		<Unit filename="/Users/Adrian/Documents/GitHub/AnalisisNumerico/Tarea1/tarea1.2/calculos.h">
+			<Option target="tarea1_2"/>
+		</Unit>
 		<Unit filename="/Users/Adrian/Documents/GitHub/AnalisisNumerico/Tarea1/tarea1.2/main.cpp">
 			<Option target="tarea1_2"/>
 		</Unit>

@@ -123,6 +123,33 @@ tarea1_2/fast:
 	$(MAKE) -f CMakeFiles/tarea1_2.dir/build.make CMakeFiles/tarea1_2.dir/build
 .PHONY : tarea1_2/fast
 
+calculos.o: calculos.cpp.o
+
+.PHONY : calculos.o
+
+# target to build an object file
+calculos.cpp.o:
+	$(MAKE) -f CMakeFiles/tarea1_2.dir/build.make CMakeFiles/tarea1_2.dir/calculos.cpp.o
+.PHONY : calculos.cpp.o
+
+calculos.i: calculos.cpp.i
+
+.PHONY : calculos.i
+
+# target to preprocess a source file
+calculos.cpp.i:
+	$(MAKE) -f CMakeFiles/tarea1_2.dir/build.make CMakeFiles/tarea1_2.dir/calculos.cpp.i
+.PHONY : calculos.cpp.i
+
+calculos.s: calculos.cpp.s
+
+.PHONY : calculos.s
+
+# target to generate assembly for a file
+calculos.cpp.s:
+	$(MAKE) -f CMakeFiles/tarea1_2.dir/build.make CMakeFiles/tarea1_2.dir/calculos.cpp.s
+.PHONY : calculos.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -159,6 +186,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... tarea1_2"
+	@echo "... calculos.o"
+	@echo "... calculos.i"
+	@echo "... calculos.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
